@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(198, 224, 238);
+}
+h2{
+    color: rgb(208, 99, 99);
+}
+input{
+    border-color: brown;
+    border-radius: 4px;
+}
+textarea{
+    border-color: brown;
+    border-radius: 4px;
+    
+}
+@media screen and (max-width: 450px) {
+    .heading{
+        width: 450px;
+    }
+    
+}
